@@ -1,0 +1,21 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+
+driver = webdriver.Firefox()
+driver.maximize_window()
+driver.get("https://www.saucedemo.com/")
+username = driver.find_element(By.NAME, 'user-name')
+enablestatus = username.is_enabled()
+displaystatus = username.is_displayed()
+print(enablestatus)
+print(displaystatus)
+username.clear()
+attributedata = username.get_attribute("type")
+print(attributedata)
+username.send_keys("standard_user")
+password = driver.find_element(By.NAME, 'password')
+password.send_keys("secret_sauce")
+login_button = driver.find_element(By.ID, 'login-button')
+login_button.click()
+print(driver.current_url + "======== login successfully ===========" + driver.title)
+driver.quit()
