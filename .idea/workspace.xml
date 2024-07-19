@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a69c28a-8989-4010-82e0-846e7f22d034" name="Changes" comment="python code">
+      <change afterPath="$PROJECT_DIR$/testing/Outlier.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SHOW_RECENT_BRANCHES" value="false" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;jyotishpurohit08&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;jyotishpurohit08&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="da01def2-ce3f-4720-aaf6-bf524a07f3db" />
+        <option name="url" value="https://github.com/jyotishpurohit08/seleniumAutomation.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2cdCzlvWZ5fJNkQU9phsPjzy1Ld" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Assertion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AutoSuggestion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Data_save_Docs_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Double_click.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Drag &amp; Drop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Handle_Alert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Handle_Dropdown.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Handle_calender.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Handle_frame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Handle_windowTab.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Headless demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Interact_with_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Keybord_action.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mouse_hover.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Outlier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Screenshot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Text_fill&amp;click_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_save_Xcel_sheet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_scrape.executor&quot;: &quot;Run&quot;,
+    &quot;Python.facebook_automate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_url&amp;title.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.web2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.webScraping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.webdriverManager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.webscrapping 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xpath &amp; Css_selector.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/testing_selenium/testing&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JSON&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\testing_selenium\testing" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Headless demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testing_selenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing/Headless demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Headless demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a69c28a-8989-4010-82e0-846e7f22d034" name="Changes" comment="" />
+      <created>1708432332813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708432332813</updated>
+    </task>
+    <task id="LOCAL-00001" summary="all code">
+      <option name="closed" value="true" />
+      <created>1709025968187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709025968187</updated>
+    </task>
+    <task id="LOCAL-00002" summary="all code">
+      <option name="closed" value="true" />
+      <created>1709026441670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709026441670</updated>
+    </task>
+    <task id="LOCAL-00003" summary="all code">
+      <option name="closed" value="true" />
+      <created>1709026616722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709026616722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="all code">
+      <option name="closed" value="true" />
+      <created>1709026629186</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709026629186</updated>
+    </task>
+    <task id="LOCAL-00005" summary="all code">
+      <option name="closed" value="true" />
+      <created>1709026753701</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709026753701</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pthon code">
+      <option name="closed" value="true" />
+      <created>1709287007837</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709287007837</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new file">
+      <option name="closed" value="true" />
+      <created>1709287541698</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709287541698</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all code" />
+    <MESSAGE value="pthon code" />
+    <MESSAGE value="new file" />
+    <MESSAGE value="Merge remote-tracking branch 'github/master'" />
+    <MESSAGE value="python code" />
+    <option name="LAST_COMMIT_MESSAGE" value="python code" />
+  </component>
+</project>
